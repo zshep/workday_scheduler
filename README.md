@@ -9,4 +9,4 @@ The user can click and save an event based on the time when it is entered into.
 ![Alt text](./screenshot.jpg?raw=true "Screenshot")
 
 
-Link to Application: https://zshep.github.io/Coding-Quiz/
+Link to Application: https://zshep.github.io/workday_scheduler/

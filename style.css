@@ -4,7 +4,7 @@ body {
   line-height: 1;
 }
 
-textarea{
+textarea {
   background: transparent;
   border: none;
   resize: none;
@@ -24,7 +24,7 @@ textarea{
 .description{
   white-space: pre-wrap;
 }
-
+/*styling for the time for each block   */
 .time-block{
   text-align: center;
   border-radius: 15px;
